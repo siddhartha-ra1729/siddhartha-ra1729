@@ -1,4 +1,4 @@
-![Header](./github-header-image .png)
+![Header](./code.png)
 <h1 align="center">Hi 👋, I'm SIDDHARTHA SHAW</h1>
 <h3 align="center">I AM A DATA ANALYST from INDIA</h3>
 <img align= "right" alt="coding" width="400" src="https://img.freepik.com/free-photo/digital-art-style-illustration-graphic-designer_23-2151536950.jpg?t=st=1721717168~exp=1721720768~hmac=60253e8954d07b1a16019218a03aaf06c9b3c1bc2f1a24cd64c9625e3741cd9c&w=740">
