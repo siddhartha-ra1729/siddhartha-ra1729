@@ -7,16 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhartha-ra1729" alt="siddhartha-ra1729" /></a> </p>
 
-- 🌱 I’m currently learning **DEEP LEARNING**
+- 🌱 I’m currently learning **DATA SCIENCE(ML, DL)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhartha-ra1729/project](https://github.com/siddhartha-ra1729/project)
 
-- 💬 Ask me about **deep learning, machine learning, python, sql, data visualization techniques**
+- 💬 Ask me about **deep learning, machine learning, python, sql, data visualization techniques and AI**
 
 - 📫 How to reach me **shaw33224@gmail.com**
 
-- 📄 Know about my experiences ["D:\interview questions'\resume new 22.07.24.pdf"]("D:\interview questions'\resume new 22.07.24.pdf")
-
+- 📄 Know about me https://drive.google.com/file/d/1DuWFFY5sxjTreUOPMO4Q1u4Jq0CBoVT_/view?usp=sharing
 - ⚡ Fun fact **baat karke to dekho ji**
 
 <h3 align="left">Connect with me:</h3>
