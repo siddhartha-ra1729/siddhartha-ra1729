@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shaw33224@gmail.com**
 
-- 📄 Know about me https://drive.google.com/file/d/1DuWFFY5sxjTreUOPMO4Q1u4Jq0CBoVT_/view?usp=sharing
+- 📄 Know about me https://drive.google.com/file/d/1SRtSbdrZcjfplVGtUypU-ygxBe3aIvzR/view?usp=sharing
 - ⚡ Fun fact **baat karke to dekho ji**
 
 <h3 align="left">Connect with me:</h3>
